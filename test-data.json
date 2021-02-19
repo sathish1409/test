@@ -1,0 +1,64 @@
+{
+  "contacts": [
+    {
+      "contact": {
+        "Email": "ScarlettTitterington@gmail.com",
+        "Phone": "(651) 500-4359",
+        "Location ID": 1000,
+        "Location name": "Jiffy Lube-3195",
+        "First Name": "Scarlett",
+        "Last Name": "Titterington"
+      }
+    },
+    {
+      "contact": {
+        "Email": "RebeccaShepard@gmail.com",
+        "Phone": "(515) 720-9649",
+        "Location ID": 1000,
+        "Location name": "Jiffy Lube-3195",
+        "First Name": "Rebecca",
+        "Last Name": "Shepard"
+      }
+    },
+    {
+      "contact": {
+        "Email": "RosemaryJenning@gmail.com",
+        "Phone": "(624) 310-5257",
+        "Location ID": 1000,
+        "Location name": "Jiffy Lube-3195",
+        "First Name": "Rosemary",
+        "Last Name": "Jenning"
+      }
+    },
+    {
+      "contact": {
+        "Email": "EllaBallard@gmail.com",
+        "Phone": "(652) 774-4541",
+        "Location ID": 1000,
+        "Location name": "Jiffy Lube-3195",
+        "First Name": "Ella",
+        "Last Name": "Ballard"
+      }
+    },
+    {
+      "contact": {
+        "Email": "DavyBacchus@gmail.com",
+        "Phone": "(872) 654-6121",
+        "Location ID": 1017,
+        "Location name": "Jiffy Lube-3312",
+        "First Name": "Davy",
+        "Last Name": "Bacchus"
+      }
+    },
+    {
+      "contact": {
+        "Email": "SidneyMalone@gmail.com",
+        "Phone": "(702) 800-9339",
+        "Location ID": 1017,
+        "Location name": "Jiffy Lube-3312",
+        "First Name": "Sidney",
+        "Last Name": "Malone"
+      }
+    }
+  ]
+}

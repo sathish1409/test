@@ -1,64 +1,223 @@
 {
-  "contacts": [
-    {
-      "contact": {
-        "Email": "ScarlettTitterington@gmail.com",
-        "Phone": "(651) 500-4359",
-        "Location ID": 1000,
-        "Location name": "Jiffy Lube-3195",
-        "First Name": "Scarlett",
-        "Last Name": "Titterington"
-      }
-    },
-    {
-      "contact": {
-        "Email": "RebeccaShepard@gmail.com",
-        "Phone": "(515) 720-9649",
-        "Location ID": 1000,
-        "Location name": "Jiffy Lube-3195",
-        "First Name": "Rebecca",
-        "Last Name": "Shepard"
-      }
-    },
-    {
-      "contact": {
-        "Email": "RosemaryJenning@gmail.com",
-        "Phone": "(624) 310-5257",
-        "Location ID": 1000,
-        "Location name": "Jiffy Lube-3195",
-        "First Name": "Rosemary",
-        "Last Name": "Jenning"
-      }
-    },
-    {
-      "contact": {
-        "Email": "EllaBallard@gmail.com",
-        "Phone": "(652) 774-4541",
-        "Location ID": 1000,
-        "Location name": "Jiffy Lube-3195",
-        "First Name": "Ella",
-        "Last Name": "Ballard"
-      }
-    },
-    {
-      "contact": {
-        "Email": "DavyBacchus@gmail.com",
-        "Phone": "(872) 654-6121",
-        "Location ID": 1017,
-        "Location name": "Jiffy Lube-3312",
-        "First Name": "Davy",
-        "Last Name": "Bacchus"
-      }
-    },
-    {
-      "contact": {
-        "Email": "SidneyMalone@gmail.com",
-        "Phone": "(702) 800-9339",
-        "Location ID": 1017,
-        "Location name": "Jiffy Lube-3312",
-        "First Name": "Sidney",
-        "Last Name": "Malone"
-      }
-    }
-  ]
+    "contacts": [
+        {
+            "contact": {
+                "Email": "ScarlettTitterington@gmail.com",
+                "Phone": "(651) 500-4359",
+                "Location ID": "310915",
+                "Location name": "Jiffy Lube-3195",
+                "First Name": "Scarlett",
+                "Last Name": "Titterington",
+                "Contact Preference": "Email",
+                "Visit Date": "2020-12-11",
+                "Product": "Reputation Booster"
+            }
+        },{
+            "contact": {
+                "Email": "RebeccaShepard@gmail.com",
+                "Phone": "(515) 720-9649",
+                "Location ID": "310915",
+                "Location name": "Jiffy Lube-3195",
+                "First Name": "Rebecca",
+                "Last Name": "Shepard",
+                "Contact Preference": "Email",
+                "Visit Date": "2020-12-12",
+                "Product": "Reputation Booster"
+            }
+        },{
+            "contact": {
+                "Email": "RosemaryJenning@gmail.com",
+                "Phone": "(624) 310-5257",
+                "Location ID": "310915",
+                "Location name": "Jiffy Lube-3195",
+                "First Name": "Rosemary",
+                "Last Name": "Jenning",
+                "Contact Preference": "Email",
+                "Visit Date": "2020-12-13",
+                "Product": "Reputation Booster"
+            }
+        },{
+            "contact": {
+                "Email": "EllaBallard@gmail.com",
+                "Phone": "(652) 774-4541",
+                "Location ID": "310915",
+                "Location name": "Jiffy Lube-3195",
+                "First Name": "Ella",
+                "Last Name": "Ballard",
+                "Contact Preference": "Phone",
+                "Visit Date": "2020-12-14",
+                "Product": "Reputation Booster"
+            }
+        },{
+            "contact": {
+                "Email": "DwayneHum@gmail.com",
+                "Phone": "(736) 223-2304",
+                "Location ID": "310915",
+                "Location name": "Jiffy Lube-3195",
+                "First Name": "Dwayne",
+                "Last Name": "Hum",
+                "Contact Preference": "Phone",
+                "Visit Date": "2020-12-15",
+                "Product": "Reputation Booster"
+            }
+        },{
+            "contact": {
+                "Email": "GrantMartin@gmail.com",
+                "Phone": "(622) 756-7286",
+                "Location ID": "310915",
+                "Location name": "Jiffy Lube-3195",
+                "First Name": "Grant",
+                "Last Name": "Martin",
+                "Contact Preference": "Phone",
+                "Visit Date": "2020-12-16",
+                "Product": "Reputation Booster"
+            }
+        },{
+            "contact": {
+                "Email": "DavyBacchus@gmail.com",
+                "Phone": "(872) 654-6121",
+                "Location ID": "310919",
+                "Location name": "Jiffy Lube-3312",
+                "First Name": "Davy",
+                "Last Name": "Bacchus",
+                "Contact Preference": "Phone",
+                "Visit Date": "2020-12-17",
+                "Product": "Reputation Booster"
+            }
+        },{
+            "contact": {
+                "Email": "SidneyMalone@gmail.com",
+                "Phone": "(702) 800-9339",
+                "Location ID": "310919",
+                "Location name": "Jiffy Lube-3312",
+                "First Name": "Sidney",
+                "Last Name": "Malone",
+                "Contact Preference": "Email",
+                "Visit Date": "2020-12-18",
+                "Product": "Reputation Booster"
+            }
+        },{
+            "contact": {
+                "Email": "ZacharyCraig@gmail.com",
+                "Phone": "(644) 692-1202",
+                "Location ID": "310919",
+                "Location name": "Jiffy Lube-3312",
+                "First Name": "Zachary",
+                "Last Name": "Craig",
+                "Contact Preference": "Email",
+                "Visit Date": "2020-12-19",
+                "Product": "Reputation Booster"
+            }
+        },{
+            "contact": {
+                "Email": "AmandaCobbett@gmail.com",
+                "Phone": "(614) 513-4376",
+                "Location ID": "310919",
+                "Location name": "Jiffy Lube-3312",
+                "First Name": "Amanda",
+                "Last Name": "Cobbett",
+                "Contact Preference": "Phone",
+                "Visit Date": "2020-12-20",
+                "Product": "Reputation Booster"
+            }
+        },{
+            "contact": {
+                "Email": "EmmettBaker@gmail.com",
+                "Phone": "(525) 618-5585",
+                "Location ID": "310919",
+                "Location name": "Jiffy Lube-3312",
+                "First Name": "Emmett",
+                "Last Name": "Baker",
+                "Contact Preference": "Phone",
+                "Visit Date": "2020-12-21",
+                "Product": "Reputation Booster"
+            }
+        },{
+            "contact": {
+                "Email": "SamuelSavage@gmail.com",
+                "Phone": "(326) 324-3052",
+                "Location ID": "310919",
+                "Location name": "Jiffy Lube-3312",
+                "First Name": "Samuel",
+                "Last Name": "Savage",
+                "Contact Preference": "Phone",
+                "Visit Date": "2020-12-22",
+                "Product": "Reputation Booster"
+            }
+        },{
+            "contact": {
+                "Email": "SydneyMacy@gmail.com",
+                "Phone": "(865) 519-4636",
+                "Location ID": "310926",
+                "Location name": "Jiffy Lube-3395",
+                "First Name": "Sydney",
+                "Last Name": "Macy",
+                "Contact Preference": "Phone",
+                "Visit Date": "2020-12-23",
+                "Product": "Reputation Booster"
+            }
+        },{
+            "contact": {
+                "Email": "BrighamBell@gmail.com",
+                "Phone": "(483) 419-8450",
+                "Location ID": "310926",
+                "Location name": "Jiffy Lube-3395",
+                "First Name": "Brigham",
+                "Last Name": "Bell",
+                "Contact Preference": "Email",
+                "Visit Date": "2020-12-24",
+                "Product": "Reputation Booster"
+            }
+        },{
+            "contact": {
+                "Email": "PamelaChandler@gmail.com",
+                "Phone": "(842) 395-0009",
+                "Location ID": "310926",
+                "Location name": "Jiffy Lube-3395",
+                "First Name": "Pamela",
+                "Last Name": "Chandler",
+                "Contact Preference": "Email",
+                "Visit Date": "2020-12-25",
+                "Product": "Reputation Booster"
+            }
+        },{
+            "contact": {
+                "Email": "VaniaJennings@gmail.com",
+                "Phone": "(325) 623-3957",
+                "Location ID": "310926",
+                "Location name": "Jiffy Lube-3395",
+                "First Name": "Vania",
+                "Last Name": "Jennings",
+                "Contact Preference": "Email",
+                "Visit Date": "2020-12-26",
+                "Product": "Reputation Booster"
+            }
+        },{
+            "contact": {
+                "Email": "TaylorIngram@gmail.com",
+                "Phone": "(707) 569-2488",
+                "Location ID": "310926",
+                "Location name": "Jiffy Lube-3395",
+                "First Name": "Taylor",
+                "Last Name": "Ingram",
+                "Contact Preference": "Email",
+                "Visit Date": "2020-12-27",
+                "Product": "Reputation Booster"
+            }
+        },{
+            "contact": {
+                "Email": "KingsleyAnnable@gmail.com",
+                "Phone": "(787) 724-8004",
+                "Location ID": "310926",
+                "Location name": "Jiffy Lube-3395",
+                "First Name": "Kingsley",
+                "Last Name": "Annable",
+                "Contact Preference": "Phone",
+                "Visit Date": "2020-12-28",
+                "Product": "Reputation Booster"
+            }
+        }
+    ]
 }
+
+

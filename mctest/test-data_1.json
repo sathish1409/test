@@ -1,0 +1,43 @@
+{
+    "contacts": [
+        {
+            "contact": {
+                "Email": "sat1@gmail.com",
+                "Phone": "8053006162",
+                "Location ID": 69203,
+                "Location name": "Oak Crest Marketing",
+                "First Name": "Scarlett",
+                "Last Name": "Titterington",
+                "Contact Preference": "Email",
+                "Visit Date": "2020-12-11",
+                "Product": "Review Generator"
+            }
+        },
+        {
+            "contact": {
+                "Email": "sat2@gmail.com",
+                "Phone": "8053006163",
+                "Location ID": 69203,
+                "Location name": "Oak Crest Marketing",
+                "First Name": "SAS",
+                "Last Name": "Shepard",
+                "Contact Preference": "Email"
+            }
+        },
+        {
+            "contact": {
+                "Email": "sat2@gmail.com",
+                "Phone": "8053006164",
+                "Location ID": 69203,
+                "Location name": "Oak Crest Marketing",
+                "First Name": "Scarlett",
+                "Last Name": "Titterington",
+                "Contact Preference": "Sms",
+                "Visit Date": "",
+                "Product": "Review Generator"
+            }
+        }
+    ]
+}
+
+
